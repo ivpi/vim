@@ -9,7 +9,7 @@ call vundle#begin()
 
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
-Plugin 'scrooloose/nerdtree'
+Plugin 'preservim/nerdtree'
 
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.
